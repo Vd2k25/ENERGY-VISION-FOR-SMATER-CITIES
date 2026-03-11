@@ -42,7 +42,7 @@ Screenshots
 
 
 
-FuturenImprovements
+Future Improvements
 - Real-time smart grid data integration
 - Advanced machine learning forecasting models
 - Mobile application support
