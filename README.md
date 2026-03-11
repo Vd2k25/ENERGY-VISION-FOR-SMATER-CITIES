@@ -36,6 +36,10 @@ Live Demo: https://ENERGY-VISION-FOR-SMATER-CITIES.vercel.app
 
 Screenshots
 ![WhatsApp Image 2026-03-12 at 2 00 52 AM](https://github.com/user-attachments/assets/4225a074-fea2-4ce4-a871-f690f7fbbaef)
+![WhatsApp Image 2026-03-12 at 2 02 39 AM](https://github.com/user-attachments/assets/8147163b-0437-4624-90cc-2f4e872446c1)
+![WhatsApp Image 2026-03-12 at 2 04 09 AM](https://github.com/user-attachments/assets/bfdb7ba3-b80b-4a3c-94b3-04c29e27e520)
+
+
 
 
 FuturenImprovements
